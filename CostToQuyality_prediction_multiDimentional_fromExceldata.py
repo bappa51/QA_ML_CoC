@@ -6,7 +6,7 @@ import re
 # -----------------------------
 # 0) CONFIG
 # -----------------------------
-EXCEL_PATH = "Book1_CoC_FullSampleData.xlsx"   # <-- update path/name as needed
+EXCEL_PATH = "Book1_CoC_FullSampleData.csv"   # <-- update path/name as needed
 SHEET_NAME = "Sheet1"
 
 TARGET_AXIS = "X"          # e.g., "X" = defects (target). Can be "R" to predict cost, etc.
