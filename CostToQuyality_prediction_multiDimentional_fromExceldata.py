@@ -1,6 +1,6 @@
-import numpy as np
+import numpy as np  # type: ignore
 import pandas as pd  # type: ignore
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt  # type: ignore
 import re
 
 # -----------------------------
