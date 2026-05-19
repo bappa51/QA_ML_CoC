@@ -1,0 +1,285 @@
+2025-05-15 - 17 100% WBSE 0 days 1 day Thu 15/05/25 Thu 15/05/25 Thu 15/05/25 Shell Placeholder Dates TBC
+2025-06-16 - 48 0% Initial Data Privacy Assessment (UAT) 0 days 0 days Mon 16/06/25 Mon 16/06/25 Mon 16/06/25 Shell
+2025-06-19 - 49 0% Initial Data Privacy Assessment (PROD) 0 days 0 days Thu 19/06/25 Thu 19/06/25 Thu 19/06/25 Shell
+2025-06-27 - 391 100% Share desired calc spec format with Shell 0 days 0 days Fri 27/06/25 Fri 27/06/25 Fri 27/06/25 Procentia
+2025-07-01 - 323 100% Payroll Workbook submitted to Shell 1 day 0 days Tue 01/07/25 Tue 01/07/25 Tue 01/07/25 Procentia
+2025-07-22 - 85 100% Milestone: Procentia receipt of DC1 extract 1 day 0 days Tue 22/07/25 Tue 22/07/25 Tue 22/07/25 Shell
+2025-07-22 - 86 100% Procentia receipt of data dictionary 1 day 0 days Tue 22/07/25 Tue 22/07/25 Tue 22/07/25 Shell
+2025-08-04 - 88 100% Data Downloaded to Procentia Server (Secure) 1 day 0 days Mon 04/08/25 Mon 04/08/25 Mon 04/08/25 Procentia
+2025-08-05 - 89 100% Data Imported to SQL database 1 day 0 days Tue 05/08/25 Tue 05/08/25 Tue 05/08/25 88 Procentia
+2025-08-06 - 90 100% Initial Analysis - how different from standard Compendia scripts? 1 day 0 days Wed 06/08/25 Wed 06/08/25 Wed 06/08/25 89 Procentia
+2025-08-07 - 91 100% Data Analysis & Mapping 1 day 0 days Thu 07/08/25 Thu 07/08/25 Thu 07/08/25 90 Procentia
+2025-08-14 - 92 100% Data Mapping Document 5 days 0 days Fri 08/08/25 Fri 08/08/25 Thu 14/08/25 91 Procentia
+2025-08-19 - 93 100% Data Mapping Workshop 1 day 0 days Tue 19/08/25 Tue 19/08/25 Tue 19/08/25 Shell,Procentia
+2025-08-20 - 70 100% Intro to IntelliPen 1 day 0 days Wed 20/08/25 Wed 20/08/25 Wed 20/08/25 Anna Fox
+2025-08-20 - 94 100% Unmapped Fields list shared with Shell 0.5 days 0 days Wed 20/08/25 Wed 20/08/25 Wed 20/08/25 93 Procentia
+2025-08-21 - 71 100% Designing Workflows 1 day 0 days Thu 21/08/25 Thu 21/08/25 Thu 21/08/25 70 Anna Fox
+2025-08-21 - 99 100% UAT Entry and Exit Criteria agreed 1 day 0 days Thu 21/08/25 Thu 21/08/25 Thu 21/08/25 Shell,Procentia 26/08 Initial draft of entry criteria shared
+2025-08-26 - 95 100% Data Reconciliation 1 day 0 days Tue 26/08/25 Tue 26/08/25 Tue 26/08/25
+2025-08-26 - 96 100% High level - counts of rows against specified tables or sum of amount fields 1 day 0 days Tue 26/08/25 Tue 26/08/25 Tue 26/08/25 Procentia
+2025-08-26 - 97 100% Sanity checks using TPR logic 1 day 0 days Tue 26/08/25 Tue 26/08/25 Tue 26/08/25 Procentia Unable to use TPR  due to data 
+2025-08-26 - 98 100% Exception reports 1 day 0 days Tue 26/08/25 Tue 26/08/25 Tue 26/08/25 Procentia
+2025-08-26 - 396 100% Assumption that Calcs to be delivered within core IntelliPen Work Packages (see below) 0 days 0 days Tue 26/08/25 Tue 26/08/25 Tue 26/08/25 Procentia
+2025-08-26 - 410 100% Mortality Screening - Attestation 0 days 0 days Tue 26/08/25 Tue 26/08/25 Tue 26/08/25 Procentia
+2025-08-26 - 411 100% Mortality Screening - Whereabouts unknown 0 days 0 days Tue 26/08/25 Tue 26/08/25 Tue 26/08/25 Procentia
+2025-08-26 - 412 100% General - Call MDA 0 days 0 days Tue 26/08/25 Tue 26/08/25 Tue 26/08/25 Procentia
+2025-08-26 - 413 100% General - MDA Non-Payroll 0 days 0 days Tue 26/08/25 Tue 26/08/25 Tue 26/08/25 Procentia Member Data Amendments = MDA
+2025-08-26 - 414 100% General - Complaints 0 days 0 days Tue 26/08/25 Tue 26/08/25 Tue 26/08/25 Procentia
+2025-08-26 - 415 100% General - Disputes 0 days 0 days Tue 26/08/25 Tue 26/08/25 Tue 26/08/25 Procentia
+2025-08-26 - 416 100% General - Data Correction 0 days 0 days Tue 26/08/25 Tue 26/08/25 Tue 26/08/25 Procentia
+2025-08-26 - 417 100% General - General Enquiry 0 days 0 days Tue 26/08/25 Tue 26/08/25 Tue 26/08/25 Procentia
+2025-08-26 - 420 100% User Stories Created 1 day 0 days Tue 26/08/25 Tue 26/08/25 Tue 26/08/25 Himal
+2025-08-27 - 418 100% Requirements Overview Documented 2 days 0 days Tue 26/08/25 Tue 26/08/25 Wed 27/08/25 Himal
+2025-08-28 - 392 100% Shell collate calculation specifications 45 days 0 days Fri 27/06/25 Fri 27/06/25 Thu 28/08/25 391 Shell DevOps 39553
+2025-08-28 - 398 100% Workshop 1 1 day 0 days Thu 28/08/25 Thu 28/08/25 Thu 28/08/25 Shell,Procentia
+2025-08-29 - 4 100% Joint RAID in place 1 day 0 days Fri 29/08/25 Fri 29/08/25 Fri 29/08/25 Shell,Procentia
+2025-08-29 - 5 100% Project Reporting Mechanisms agreed 0 days 0 days Fri 29/08/25 Fri 29/08/25 Fri 29/08/25 Shell,Procentia
+2025-08-29 - 7 100% PDLT established 0 days 0 days Fri 29/08/25 Fri 29/08/25 Fri 29/08/25 Shell 26/08 Drafted and ready to submit to 
+2025-08-29 - 67 100% Environment Specifications added to ADO 1 day 0 days Fri 29/08/25 Fri 29/08/25 Fri 29/08/25 SysApps,Release 26/08 Non-prod environments complete,
+2025-08-29 - 100 100% Data Migrated into IntelliPen database 1 day 0 days Fri 29/08/25 Fri 29/08/25 Fri 29/08/25 Procentia
+2025-08-29 - 101 100% Financial Milestone 2: Delivery of DC1 into UAT £431,000 1 day 0 days Fri 29/08/25 Fri 29/08/25 Fri 29/08/25 Procentia
+2025-08-29 - 324 100% Shell return completed workbook 43 days 0 days Wed 02/07/25 Wed 02/07/25 Fri 29/08/25 323 Shell
+2025-08-29 - 419 100% Requirements Overview Approved 2 days 0 days Thu 28/08/25 Thu 28/08/25 Fri 29/08/25 418 Shell
+2025-09-01 - 62 100% Dev Build 5 days 0 days Tue 26/08/25 Tue 26/08/25 Mon 01/09/25 SysApps,Release
+2025-09-01 - 87 100% Migration activities 21 days 0 days Mon 04/08/25 Mon 04/08/25 Mon 01/09/25
+2025-09-01 - 102 100% Milestone: DC1 UAT Entry certificate signed 1 day 0 days Mon 01/09/25 Mon 01/09/25 Mon 01/09/25 101 Shell
+2025-09-02 - 399 100% Workshop 2 1 day 0 days Tue 02/09/25 Tue 02/09/25 Tue 02/09/25 Shell,Procentia
+2025-09-05 - 52 0% Procentia SOC2 Type II Report 0 days 0 days Fri 05/09/25 Fri 05/09/25 Fri 05/09/25 Shell
+2025-09-08 - 63 100% UAT Build 5 days 0 days Tue 02/09/25 Tue 02/09/25 Mon 08/09/25 62 SysApps,Release
+2025-09-08 - 64 100% QAT Build 2 days 0 days Fri 05/09/25 Fri 05/09/25 Mon 08/09/25 SysApps,Release
+2025-09-09 - 400 100% User Story Creation 5 days 0 days Wed 03/09/25 Wed 03/09/25 Tue 09/09/25 399 Procentia
+2025-09-10 - 421 100% Build 10 days 0 days Tue 26/08/25 Tue 26/08/25 Wed 10/09/25 418 Procentia
+2025-09-10 - 423 100% Deploy to QAT 1 day 0.5 days Tue 09/09/25 Tue 09/09/25 Wed 10/09/25 421FS-1 day Warren Howes
+2025-09-12 - 422 100% Testing Evidence attached to Tasks 2 days 0.5 days Wed 10/09/25 Wed 10/09/25 Fri 12/09/25 421 Sean,Michael,David
+2025-09-16 - 424 100% Quality Assurance 2 days 0.5 days Fri 12/09/25 Fri 12/09/25 Tue 16/09/25 423FS+2 days Victor OgbueT12 May '25
+2025-09-17 - 401 100% Requirements Playback 1 day 0 days Wed 17/09/25 Wed 17/09/25 Wed 17/09/25 400FS+5 days Shell,Procentia
+2025-09-17 - 425 100% QAT Testing Evidence attached to Tasks 1 day 0.5 days Tue 16/09/25 Tue 16/09/25 Wed 17/09/25 424 Victor Ogbue
+2025-09-18 - 402 100% Milestone: Multi-Currency Scope Sign Off (ToR) 1 day 0 days Thu 18/09/25 Thu 18/09/25 Thu 18/09/25 401 Shell
+2025-09-22 - 426 100% Deploy to UAT 0.5 days 0.5 days Mon 22/09/25 Mon 22/09/25 Mon 22/09/25 425FS+3 days Procentia
+2025-09-22 - 439 100% BRD workshops per workflow 20 days 0 days Tue 26/08/25 Tue 26/08/25 Mon 22/09/25 Shell,Procentia
+2025-09-24 - 427 100% Smoke Test in UAT 1.5 days 0 days Tue 23/09/25 Tue 23/09/25 Wed 24/09/25 426 Procentia
+2025-09-26 - 105 100% Remediation/Data Mapping Amendments 20 days 0 days Mon 01/09/25 Mon 01/09/25 Fri 26/09/25 101 Procentia
+2025-09-29 - 50 0% Project Impact & Risk Assessment (PIRA) 21 days 0 days Mon 01/09/25 Mon 01/09/25 Mon 29/09/25 Shell
+2025-09-29 - 325 100% Workshop 1 1 day 0 days Mon 29/09/25 Mon 29/09/25 Mon 29/09/25 Shell,Procentia
+2025-10-01 - 428 100% Delivery Note Submitted 2 days 0.5 days Mon 29/09/25 Mon 29/09/25 Wed 01/10/25 427FS+3 days Shell,Procentia
+2025-10-03 - 6 100% Milestone: Project Initiation Document Signed 20 days 0 days Mon 08/09/25 Mon 08/09/25 Fri 03/10/25 Shell,Procentia
+2025-10-03 - 51 0% Initial Assessment Questionnaire (IAQ) 25 days 0 days Mon 01/09/25 Mon 01/09/25 Fri 03/10/25 Shell
+2025-10-07 - 429 100% *Procentia delay due to QAT resource conflict and pipeline issues 28 days 0 days Fri 29/08/25 Fri 29/08/25 Tue 07/10/25 428 Procentia
+2025-10-07 - 430 100% Handover to UAT 0 days 1 day Tue 07/10/25 Tue 07/10/25 Tue 07/10/25 429 Procentia
+2025-10-09 - 326 100% Workshop 2 1 day 0 days Thu 09/10/25 Thu 09/10/25 Thu 09/10/25 325FS+7 days Shell,Procentia
+2025-10-15 - 393 100% Workshop 1 1 day 0 days Wed 15/10/25 Wed 15/10/25 Wed 15/10/25 Shell,Procentia
+2025-10-15 - 435 100% Shell to providefirst tranche of requirements 0 days 0 days Wed 15/10/25 Wed 15/10/25 Wed 15/10/25 Shanaz Shell delay from 10th-15th
+2025-10-22 - 438 100% Brightwell workflow demo 0.5 days 0 days Wed 22/10/25 Wed 22/10/25 Wed 22/10/25 436 Brightwell
+2025-10-23 - 431 100% *Shell delay - flagged 23/10 that the handover went to the wrong team (should have been Agata's team) 12 days 0 days Wed 08/10/25 Wed 08/10/25 Thu 23/10/25 430 Shell
+2025-10-23 - 437 100% Decision to revert to original approach - 1 workshop per workflow 0 days 1 day Thu 23/10/25 Thu 23/10/25 Thu 23/10/25 436FS+2 days Shell,Brightwell,Procentia
+2025-10-30 - 74 100% Report Writer 1 day 0 days Thu 30/10/25 Thu 30/10/25 Thu 30/10/25 Anna Fox Scheduled end Oct 25 for subset of 
+2025-10-30 - 322 100% Requirement Gathering 88 days 0 days Tue 01/07/25 Tue 01/07/25 Thu 30/10/25
+2025-10-30 - 327 100% Contingency 15 days 0 days Fri 10/10/25 Fri 10/10/25 Thu 30/10/25 326 Shell,Procentia
+2025-10-31 - 18 70% Project Charter 49 days 0 days Tue 26/08/25 Tue 26/08/25 Fri 31/10/25 Shell Placeholder Dates TBC
+2025-10-31 - 248 100% Team identification- Shell (middleware, integration, dev, test) Procentia (Dev, PM, Test) 45 days 0 days Mon 01/09/25 Mon 01/09/25 Fri 31/10/25 Shell,Procentia
+2025-10-31 - 249 100% Team engagment and kickOff- Shell (middleware, integration, dev, test) Procentia (Dev, PM, Test) 45 days 0 days Mon 01/09/25 Mon 01/09/25 Fri 31/10/25 Shell,Procentia
+2025-10-31 - 250 100% Stakeholder commitments and integation WBS action plan 45 days 0 days Mon 01/09/25 Mon 01/09/25 Fri 31/10/25 Shell,Procentia
+2025-10-31 - 394 100% 1st Set of Worked Examples 5 days 0 days Mon 27/10/25 Mon 27/10/25 Fri 31/10/25 DanHulbert
+2025-11-04 - 432 100% Shell review and feedback 20 days 0 days Wed 08/10/25 Wed 08/10/25 Tue 04/11/25 430 Shell
+2025-11-05 - 390 100% Calculations Scoping 94 days 0 days Fri 27/06/25 Fri 27/06/25 Wed 05/11/25
+2025-11-05 - 395 100% Workshop 2 1 day 0 days Wed 05/11/25 Wed 05/11/25 Wed 05/11/25 393FS+14 days Shell,Procentia
+2025-11-13 - 8 100% Project Mobilisation Meeting 1 day 0 days Thu 13/11/25 Thu 13/11/25 Thu 13/11/25 Shell,Procentia
+2025-11-14 - 9 100% Milestone : High Level Workstream Scope Agreed 0 days 0 days Fri 14/11/25 Fri 14/11/25 Fri 14/11/25 Shell,Procentia
+2025-11-20 - 20 0% Milestone: DAR Startup Review 1 day 0 days Thu 20/11/25 Thu 20/11/25 Thu 20/11/25 Shell Placeholder Dates TBC
+2025-11-21 - 104 100% Client Data Checking (UAT) 60 days 0 days Mon 01/09/25 Mon 01/09/25 Fri 21/11/25 101 Shell
+2025-11-21 - 107 100% Milestone: DC1 UAT Exit signed 0 days 1 day Fri 21/11/25 Fri 21/11/25 Fri 21/11/25 104 Shell L2 Milestone slippage
+2025-11-25 - 29 100% Test Strategy 0 days 0 days Tue 25/11/25 Tue 25/11/25 Tue 25/11/25 Shell Placeholder Dates TBC
+2025-11-25 - 30 0% Review of Test Strategy by CoE 0 days 0 days Tue 25/11/25 Tue 25/11/25 Tue 25/11/25 Shell Placeholder Dates TBC
+2025-11-25 - 32 100% Data Migration Strategy 0 days 0 days Tue 25/11/25 Tue 25/11/25 Tue 25/11/25 Shell
+2025-11-25 - 33 0% Performance Reporting 0 days 0 days Tue 25/11/25 Tue 25/11/25 Tue 25/11/25 Shell Placeholder Dates TBC
+2025-11-25 - 34 0% Deployment Strategy 0 days 0 days Tue 25/11/25 Tue 25/11/25 Tue 25/11/25 Shell Placeholder Dates TBC
+2025-11-25 - 35 0% Decommission Plan (EQ) 0 days 0 days Tue 25/11/25 Tue 25/11/25 Tue 25/11/25 Shell Placeholder Dates TBC
+2025-11-25 - 36 0% Decommission Plan (Internal Shell Tools/Servers) 0 days 0 days Tue 25/11/25 Tue 25/11/25 Tue 25/11/25 Shell Placeholder Dates TBC
+2025-11-25 - 37 0% Disaster Recovery Plan & Agreement 0 days 0 days Tue 25/11/25 Tue 25/11/25 Tue 25/11/25 Shell Placeholder Dates TBC
+2025-11-25 - 38 0% Enterprise Recovery Plan (Business Continuity Plan) 0 days 0 days Tue 25/11/25 Tue 25/11/25 Tue 25/11/25 Shell Placeholder Dates TBC
+2025-11-25 - 39 0% License Management Plan 0 days 0 days Tue 25/11/25 Tue 25/11/25 Tue 25/11/25 Shell Placeholder Dates TBC
+2025-11-25 - 40 0% Third Party Contract & SoW Agreement 0 days 0 days Tue 25/11/25 Tue 25/11/25 Tue 25/11/25 Shell Placeholder Dates TBCT12 May '25
+2025-11-25 - 41 0% Non Functional Requirement Plan 0 days 0 days Tue 25/11/25 Tue 25/11/25 Tue 25/11/25 Shell Placeholder Dates TBC
+2025-11-25 - 42 0% Support Model Agreement 0 days 0 days Tue 25/11/25 Tue 25/11/25 Tue 25/11/25 Shell Placeholder Dates TBC
+2025-11-25 - 43 0% Support Processes & Tools Plan 0 days 0 days Tue 25/11/25 Tue 25/11/25 Tue 25/11/25 Shell Placeholder Dates TBC
+2025-11-25 - 44 0% Knowledge Transfer & Execution 0 days 0 days Tue 25/11/25 Tue 25/11/25 Tue 25/11/25 Shell Placeholder Dates TBC
+2025-11-28 - 11 100% Milestone : Member Comms Scope Agreed 1 day 0 days Fri 28/11/25 Fri 28/11/25 Fri 28/11/25 Shell
+2025-11-28 - 19 0% Scope for AtD & AtO 0 days 1 day Fri 28/11/25 Fri 28/11/25 Fri 28/11/25 Shell Placeholder Dates TBC
+2025-11-28 - 21 0% High Level Design - Dynamic Solution Intent (DSI) 0 days 1 day Fri 28/11/25 Fri 28/11/25 Fri 28/11/25 Shell Placeholder Dates TBC
+2025-11-28 - 22 50% Risks, Issues and Assumptions, Dependencies 0 days 1 day Fri 28/11/25 Fri 28/11/25 Fri 28/11/25 Shell Placeholder Dates TBC
+2025-11-28 - 23 100% Governance 0 days 1 day Fri 28/11/25 Fri 28/11/25 Fri 28/11/25 Shell Placeholder Dates TBC
+2025-11-28 - 24 50% Baseline Budget & Schedule/OCET (Early Estimate)/Commercial Management 0 days 1 day Fri 28/11/25 Fri 28/11/25 Fri 28/11/25 Shell Placeholder Dates TBC
+2025-11-28 - 25 80% Project Team & Resourcing Plan 0 days 1 day Fri 28/11/25 Fri 28/11/25 Fri 28/11/25 Shell Placeholder Dates TBC
+2025-11-28 - 26 0% Business Analysis Strategy 0 days 1 day Fri 28/11/25 Fri 28/11/25 Fri 28/11/25 Shell Placeholder Dates TBC
+2025-11-28 - 27 50% Detailed Project Plan 0 days 1 day Fri 28/11/25 Fri 28/11/25 Fri 28/11/25 Shell Placeholder Dates TBC
+2025-11-28 - 28 0% Transformational Change Plan 0 days 1 day Fri 28/11/25 Fri 28/11/25 Fri 28/11/25 Shell Placeholder Dates TBC
+2025-11-28 - 53 0% Shell IT Controls Scoping (Non PROD) 65 days 0 days Mon 01/09/25 Mon 01/09/25 Fri 28/11/25 Shell
+2025-12-01 - 252 0% Plan rollout (Procentia, eHub/Bank Hub, Banks, external and internal interfacess) 0 days 0 days Mon 01/12/25 Mon 01/12/25 Mon 01/12/25 Shell,Procentia Dates TBC
+2025-12-09 - 13 100% Milestone: Delivery Assurance Review (Project Startup) 14 days 0 days Thu 20/11/25 Thu 20/11/25 Tue 09/12/25 Shell Milestone Slippage
+2025-12-12 - 10 100% Milestone : New Ways of Working drafted 0 days 0 days Fri 12/12/25 Fri 12/12/25 Fri 12/12/25 Shell Milestone Slippage
+2025-12-15 - 106 100% Milestone : Data Migration Strategy Agreed 0 days 0 days Mon 15/12/25 Mon 15/12/25 Mon 15/12/25 Shell,Procentia
+2025-12-15 - 409 100% Work Package 1 Baseline 79 days 0 days Tue 26/08/25 Tue 26/08/25 Mon 15/12/25
+2025-12-15 - 433 100% Milestone : GMPe Approach Agreed 0 days 0 days Mon 15/12/25 Mon 15/12/25 Mon 15/12/25 Shell,Procentia
+2025-12-19 - 330 100% Build 15 days 0 days Mon 01/12/25 Mon 01/12/25 Fri 19/12/25 Procentia
+2025-12-19 - 331 100% BACS ARUCS Processing 15 days 0 days Mon 01/12/25 Mon 01/12/25 Fri 19/12/25 David McNaught
+2025-12-19 - 332 100% BACS AWACS Processing 15 days 0 days Mon 01/12/25 Mon 01/12/25 Fri 19/12/25 David McNaught
+2025-12-19 - 333 100% MDA Payroll 15 days 0 days Mon 01/12/25 Mon 01/12/25 Fri 19/12/25 David McNaught
+2025-12-19 - 334 100% Payroll Manual Payment RTI Submission 15 days 0 days Mon 01/12/25 Mon 01/12/25 Fri 19/12/25 David McNaught
+2025-12-19 - 335 100% Monthly Payroll Process 15 days 0 days Mon 01/12/25 Mon 01/12/25 Fri 19/12/25 David McNaught
+2025-12-19 - 336 100% Ad Hoc Payroll Process 15 days 0 days Mon 01/12/25 Mon 01/12/25 Fri 19/12/25 David McNaught
+2025-12-31 - 55 0% Shell IT Control Implementation (Non PROD) - Scope TBC 78 days 0 days Mon 15/09/25 Mon 15/09/25 Wed 31/12/25 Shell,Procentia
+2025-12-31 - 110 0% Shell: Automated Data Migration Process 58 days 0 days Mon 13/10/25 Mon 13/10/25 Wed 31/12/25 Shell Placeholder dates TBC
+2025-12-31 - 111 0% Data Migration Tool Analysis/Evaluation 58 days 0 days Mon 13/10/25 Mon 13/10/25 Wed 31/12/25 Shell Placeholder dates TBC
+2025-12-31 - 112 0% Data Migration Tool Implementation 58 days 0 days Mon 13/10/25 Mon 13/10/25 Wed 31/12/25 Shell Placeholder dates TBC
+2025-12-31 - 113 0% Data Migration Fallback plan (Data annonymisation and encryption and sign off) 58 days 0 days Mon 13/10/25 Mon 13/10/25 Wed 31/12/25 Shell Placeholder dates TBC
+2025-12-31 - 114 0% Shell IRM justification and Sign-off on Data Privacy/Record Transfer 58 days 0 days Mon 13/10/25 Mon 13/10/25 Wed 31/12/25 Shell Placeholder dates TBCT12 May '25
+2026-01-15 - 436 100% *Shell change in approach - 16th October Shell advised no reqs to be shared until they have seen the Brightwell Workflow Demo 67 days 0 days Wed 15/10/25 Wed 15/10/25 Thu 15/01/26 435 Shell
+2026-01-15 - 440 100% Realignment meeting (revert to Procentia approach) 0 days 0 days Thu 15/01/26 Thu 15/01/26 Thu 15/01/26 Shell,Procentia
+2026-01-16 - 470 0% Retirement as is processes provided by Shell 10 days 0 days Mon 05/01/26 Mon 05/01/26 Fri 16/01/26 Chris Nzenwata
+2026-01-16 - 471 0% Payroll as is processes provided by Shell 10 days 0 days Mon 05/01/26 Mon 05/01/26 Fri 16/01/26 Chris Nzenwata
+2026-01-19 - 115 100% Procentia receipt of data extract 2 1 day 0 days Mon 19/01/26 Mon 19/01/26 Mon 19/01/26 Shell advised a mid-jan date would be 
+2026-01-20 - 117 100% Data Downloaded to Procentia Server (Secure) 1 day 0 days Tue 20/01/26 Tue 20/01/26 Tue 20/01/26 115 Procentia
+2026-01-21 - 118 100% Data Imported to SQL database 1 day 0 days Wed 21/01/26 Wed 21/01/26 Wed 21/01/26 117 Procentia
+2026-01-23 - 473 100% Bereavements: Manual Payment - not required as Brightwell specific 60 days 0 days Mon 03/11/25 Mon 03/11/25 Fri 23/01/26 Procentia,Shell
+2026-01-26 - 441 100% WP1 refresher workshop (interactive) 0 days 1 day Mon 26/01/26 Mon 26/01/26 Mon 26/01/26 440FS+8 days Shell,Procentia
+2026-01-29 - 57 0% Milestone: Shell IT Controls Sign-off (PROD) - Scope TBC 0 days 0 days Thu 29/01/26 Thu 29/01/26 Thu 29/01/26 Shell
+2026-01-30 - 337 25% Testing in DEV 20 days 0 days Mon 05/01/26 Mon 05/01/26 Fri 30/01/26 David McNaught
+2026-02-02 - 45 0% Milestone: Member Comms R&R approach agreed 0 days 0 days Mon 02/02/26 Mon 02/02/26 Mon 02/02/26 Shell
+2026-02-02 - 76 0% Document Production 1 day 0 days Mon 02/02/26 Mon 02/02/26 Mon 02/02/26 Date TBC - Placeholder only T12 May '25
+2026-02-06 - 14 100% Milestone: New Ways of Working Approved 6 days 0 days Fri 30/01/26 Fri 30/01/26 Fri 06/02/26 Shell Milestone Slippage
+2026-02-06 - 247 100% Interface Requirements Gathering 115 days 0 days Mon 01/09/25 Mon 01/09/25 Fri 06/02/26
+2026-02-06 - 251 100% Milestone: Interface scope approved 6 days 0 days Fri 30/01/26 Fri 30/01/26 Fri 06/02/26 Shell,Procentia Milestone Slippage
+2026-02-11 - 119 100% Data Analysis& Mapping 15 days 0 days Thu 22/01/26 Thu 22/01/26 Wed 11/02/26 118 Procentia
+2026-02-12 - 338 100% Payroll process demo to Shell 0 days 0 days Thu 12/02/26 Thu 12/02/26 Thu 12/02/26 Shell,Procentia
+2026-02-13 - 487 100% Merge into Workflow 5 days 0 days Mon 09/02/26 Mon 09/02/26 Fri 13/02/26 David Goodwin
+2026-02-18 - 120 100% Update Data Mapping Document 5 days 0 days Thu 12/02/26 Thu 12/02/26 Wed 18/02/26 119 Procentia
+2026-02-19 - 122 100% High level - counts of rows against specified tables or sum of amount fields 1 day 0 days Thu 19/02/26 Thu 19/02/26 Thu 19/02/26 120 Procentia
+2026-02-20 - 242 0% Procentia POC 35 days 0 days Mon 05/01/26 Mon 05/01/26 Fri 20/02/26 Steve Dart Extended by 5 days 
+2026-02-20 - 339 100% Deploy to QAT & Testing 15 days 0 days Mon 02/02/26 Mon 02/02/26 Fri 20/02/26 337 Victor QAT evidence attached to tasks 
+2026-02-20 - 486 100% Active Retirement 10 days 0 days Mon 09/02/26 Mon 09/02/26 Fri 20/02/26
+2026-02-20 - 488 100% Deliver into QAT 5 days 0 days Mon 16/02/26 Mon 16/02/26 Fri 20/02/26 487 David Goodwin
+2026-02-20 - 492 100% BRDs shared with Shell 20 days 0 days Mon 26/01/26 Mon 26/01/26 Fri 20/02/26 484
+2026-02-23 - 340 100% UAT Entry/Exit Criteria agreed 1 day 0 days Mon 23/02/26 Mon 23/02/26 Mon 23/02/26 339 Shell,Procentia
+2026-02-23 - 341 100% Milestone: Payroll Work Package 1 delivery into UAT 0 days 1 day Mon 23/02/26 Mon 23/02/26 Mon 23/02/26 340 Shell
+2026-02-26 - 46 0% Milestone: Final Investment Decision 54 days 0 days Mon 15/12/25 Mon 15/12/25 Thu 26/02/26 Shell Placeholder Dates TBC
+2026-02-26 - 123 100% Line by line reconciliation of source data being mapped to IntelliPen 5 days 0 days Fri 20/02/26 Fri 20/02/26 Thu 26/02/26 122 Procentia
+2026-02-27 - 15 100% Milestone: Testing Strategy Agreed 11 days 0 days Fri 13/02/26 Fri 13/02/26 Fri 27/02/26 Shell,Procentia Milestone Slippage
+2026-02-27 - 84 100% Data Cut 1 159 days 0 days Tue 22/07/25 Tue 22/07/25 Fri 27/02/26
+2026-02-27 - 103 100% User Acceptance Testing 130 days 0 days Mon 01/09/25 Mon 01/09/25 Fri 27/02/26
+2026-02-27 - 108 100% Contingency 70 days 0 days Mon 24/11/25 Mon 24/11/25 Fri 27/02/26 107
+2026-02-27 - 124 100% Sanity checks using TPR logic 1 day 0 days Fri 27/02/26 Fri 27/02/26 Fri 27/02/26 123 Procentia
+2026-02-27 - 493 100% Deploy into QAT and testing 20 days 0 days Mon 02/02/26 Mon 02/02/26 Fri 27/02/26 484FS+5 days Victor QAT evidence attached to tasks 
+2026-03-02 - 494 100% Demos 1 day 0 days Mon 02/03/26 Mon 02/03/26 Mon 02/03/26 493
+2026-03-05 - 16 33% Shell Project Delivery Framework Deliverables 209 days 1 day Thu 15/05/25 Thu 15/05/25 Thu 05/03/26
+2026-03-05 - 31 0% Shell Automation Workshop, Discovery and Decision 0 days 0 days Thu 05/03/26 Thu 05/03/26 Thu 05/03/26 Shell
+2026-03-06 - 3 100% Joint Mobilisation Tasks 136 days 0 days Fri 29/08/25 Fri 29/08/25 Fri 06/03/26
+2026-03-06 - 12 100% Milestone : Reporting Scope Agreed 71 days 0 days Fri 28/11/25 Fri 28/11/25 Fri 06/03/26 Shell Milestone Slippage
+2026-03-06 - 125 100% Field by Field - full itemised reconciliation with explanation of discrepencies 5 days 0 days Mon 02/03/26 Mon 02/03/26 Fri 06/03/26 124 Procentia
+2026-03-06 - 343 100% Functional testing (tbc) 9 days 0 days Tue 24/02/26 Tue 24/02/26 Fri 06/03/26 341 Shell
+2026-03-06 - 475 100% Ad-hoc referrals not required as Brightwell specific 90 days 0 days Mon 03/11/25 Mon 03/11/25 Fri 06/03/26 Procentia,Shell
+2026-03-06 - 476 100% Revision of benefits 90 days 0 days Mon 03/11/25 Mon 03/11/25 Fri 06/03/26 Procentia,Shell
+2026-03-06 - 477 100% Monthly Factors Review 90 days 0 days Mon 03/11/25 Mon 03/11/25 Fri 06/03/26 Procentia,Shell
+2026-03-06 - 478 100% Portal De-registration 90 days 0 days Mon 03/11/25 Mon 03/11/25 Fri 06/03/26 Procentia,Shell
+2026-03-06 - 479 100% Document Request 90 days 0 days Mon 03/11/25 Mon 03/11/25 Fri 06/03/26 Procentia,Shell
+2026-03-06 - 480 100% Data Subject Access Request 90 days 0 days Mon 03/11/25 Mon 03/11/25 Fri 06/03/26 Procentia,Shell
+2026-03-06 - 481 100% Retirement Quote 90 days 0 days Mon 03/11/25 Mon 03/11/25 Fri 06/03/26 Procentia,Shell
+2026-03-06 - 482 100% Early Payment on Ill Health Quote 90 days 0 days Mon 03/11/25 Mon 03/11/25 Fri 06/03/26 Procentia,Shell
+2026-03-06 - 483 100% Trivial Commutation Quote 90 days 0 days Mon 03/11/25 Mon 03/11/25 Fri 06/03/26 Procentia,Shell
+2026-03-06 - 484 67% Non- Member enquiry 90 days 0 days Mon 03/11/25 Mon 03/11/25 Fri 06/03/26 Procentia,Shell
+2026-03-09 - 121 100% Data Reconciliation 13 days 0 days Thu 19/02/26 Thu 19/02/26 Mon 09/03/26
+2026-03-09 - 126 100% Exception reports 1 day 0 days Mon 09/03/26 Mon 09/03/26 Mon 09/03/26 125 Procentia
+2026-03-10 - 127 100% UAT Entry and Exit Criteria agreed 1 day 0 days Tue 10/03/26 Tue 10/03/26 Tue 10/03/26 126 Shell,Procentia
+2026-03-16 - 128 100% Contingency 4 days 0 days Wed 11/03/26 Wed 11/03/26 Mon 16/03/26 127 Procentia
+2026-03-16 - 129 100% Data Migrated into IntelliPen database 1 day 0 days Mon 16/03/26 Mon 16/03/26 Mon 16/03/26 128FS-1 day Procentia
+2026-03-16 - 130 100% Financial Milestone 3: Delivery of DC2 into UAT £323,250 0 days 1 day Mon 16/03/26 Mon 16/03/26 Mon 16/03/26 129 Procentia
+2026-03-16 - 342 100% Delay to align with WP2 UAT entry 15 days 0 days NA Tue 24/02/26 Mon 16/03/26 341
+2026-03-16 - 495 100% Deploy into UAT and smoke test 10 days 0 days Tue 03/03/26 Tue 03/03/26 Mon 16/03/26 494 Victor
+2026-03-17 - 116 100% Migration activities 41 days 0 days Tue 20/01/26 Tue 20/01/26 Tue 17/03/26
+2026-03-17 - 131 100% Milestone: DC2 UAT Entry certificate signed 1 day 0 days Tue 17/03/26 Tue 17/03/26 Tue 17/03/26 130 Shell
+2026-03-17 - 496 100% Milestone: Brightwell Baseline WP2 workflows available in UAT 1 day 5 days Tue 10/03/26 Tue 17/03/26 Tue 17/03/26 495 Procentia
+2026-03-19 - 276 100% Specification/requirements/sample file received 58827 0 days 0 days NA Thu 19/03/26 Thu 19/03/26 Shell Received 
+2026-03-20 - 81 0% UAT training document preparation for Shell Business 15 days 0 days Mon 02/03/26 Mon 02/03/26 Fri 20/03/26 Shell
+2026-03-25 - 133 100% Client Data Checking 6 days 0 days Wed 18/03/26 Wed 18/03/26 Wed 25/03/26 131 Shell
+2026-03-27 - 485 100% Calculations 35 days 0 days Mon 09/02/26 Mon 09/02/26 Fri 27/03/26
+2026-03-27 - 489 100% Deferred to Retirement 25 days 0 days Mon 23/02/26 Mon 23/02/26 Fri 27/03/26 488 David Goodwin Retirement calcs available in QAT end 
+2026-03-27 - 490 100% Trivial Commutation 25 days 0 days Mon 23/02/26 Mon 23/02/26 Fri 27/03/26 488 David Goodwin
+2026-03-27 - 491 100% Ill Health 25 days 0 days Mon 23/02/26 Mon 23/02/26 Fri 27/03/26 488 David Goodwin
+2026-03-31 - 587 100% Initial Kick off Meeting 0.25 days 0 days NA Tue 31/03/26 Tue 31/03/26 Shell,Procentia
+2026-04-02 - 132 100% Functional Testing (Technical Validation) 12 days 0 days Wed 18/03/26 Wed 18/03/26 Thu 02/04/26
+2026-04-02 - 134 100% Remediation/Data Mapping Amendments 12 days 0 days Wed 18/03/26 Wed 18/03/26 Thu 02/04/26 131 Procentia
+2026-04-03 - 82 0% UAT Training for Shell Business 10 days 0 days Mon 23/03/26 Mon 23/03/26 Fri 03/04/26 81 Shell
+2026-04-03 - 243 0% Task yet to be defined - PLACEHOLDER 30 days 0 days Mon 23/02/26 Mon 23/02/26 Fri 03/04/26 242 Procentia Include Leaver calc
+2026-04-03 - 346 0% UAT Support 20 days 0 days Mon 09/03/26 Mon 09/03/26 Fri 03/04/26 343 Procentia
+2026-04-11 - 296 100% Specification/requirements/sample file received 0 days 0 days NA Sat 11/04/26 Sat 11/04/26 Shell Received
+2026-04-14 - 442 99% WP1 feedback (Shell) 60 days 106 days Tue 26/08/25 Wed 21/01/26 Tue 14/04/26
+2026-04-14 - 443 100% BRD Refinement (see BRD Schedule 0.3) 60 days 106 days Tue 26/08/25 Wed 21/01/26 Tue 14/04/26
+2026-04-14 - 444 0% Milestone: WP1 Shell Specific Scope Approved 0 days 0 days NA Tue 14/04/26 Tue 14/04/26 443 Shell
+2026-04-14 - 445 0% Deadline for Receipt of WP1 letters templates 0 days 24 days Thu 12/03/26 Tue 14/04/26 Tue 14/04/26 444 Amanda
+2026-04-14 - 588 0% Scoping Document Shared 61255 0 days 0 days NA Tue 14/04/26 Tue 14/04/26 Procentia
+2026-04-17 - 142 100% Parallel Run Approach Document drafted 2 days 0 days NA Thu 16/04/26 Fri 17/04/26 Procentia
+2026-04-17 - 226 75% Milestone: Document Migration Strategy Agreed 13 days 0 days Wed 01/04/26 Wed 01/04/26 Fri 17/04/26 Shell,Procentia Shell delay with providing feedback
+2026-04-17 - 277 0% Estimate 0 days 0 days NA Fri 17/04/26 Fri 17/04/26 Steve Dart Placeholder only - TBC 
+2026-04-20 - 297 0% Estimate 1 day 0 days NA Mon 20/04/26 Mon 20/04/26 296FS+5 days Procentia
+2026-04-20 - 447 0% Call MDA Workflow default priority should be set as Normal when the case is initiated 60890 0.5 days 0 days NA Mon 20/04/26 Mon 20/04/26 Procentia
+2026-04-20 - 448 0% Call MDA: Call MDA cases cannot be created for Active & Closed Members 60892 0.5 days 0 days NA Mon 20/04/26 Mon 20/04/26 447 Procentia
+2026-04-21 - 143 0% Parallel Run Approach Workshop 0.5 days 0 days NA Tue 21/04/26 Tue 21/04/26 Shell,Procentia
+2026-04-21 - 449 0% General Enquiry: Primary and Secondary General Enquiry categories 60922 0.5 days 0 days NA Tue 21/04/26 Tue 21/04/26 448 Procentia
+2026-04-21 - 450 0% MDA Non-Payroll - MDA Non-Payroll cases will the assigned to the Default queue 60936 0.25 days 0 days NA Tue 21/04/26 Tue 21/04/26 449 Procentia
+2026-04-22 - Date: Wed 22/04/26
+2026-04-22 - Date: Wed 22/04/26
+2026-04-22 - Date: Wed 22/04/26
+2026-04-22 - Date: Wed 22/04/26
+2026-04-22 - Date: Wed 22/04/26
+2026-04-22 - Date: Wed 22/04/26
+2026-04-22 - 244 0% Requirements Review Workshop & Plan refinement 1 day 0 days NA Wed 22/04/26 Wed 22/04/26 Shell,Procentia
+2026-04-22 - Date: Wed 22/04/26
+2026-04-22 - Date: Wed 22/04/26
+2026-04-22 - Date: Wed 22/04/26
+2026-04-22 - Date: Wed 22/04/26
+2026-04-22 - 404 0% Requirements refinement workshop 0 days 172 days Tue 26/08/25 Wed 22/04/26 Wed 22/04/26 244 Procentia,Shell
+2026-04-22 - Date: Wed 22/04/26
+2026-04-22 - Date: Wed 22/04/26
+2026-04-22 - Date: Wed 22/04/26
+2026-04-22 - Date: Wed 22/04/26
+2026-04-22 - Date: Wed 22/04/26
+2026-04-22 - Date: Wed 22/04/26
+2026-04-22 - Date: Wed 22/04/26
+2026-04-22 - Date: Wed 22/04/26
+2026-04-24 - 345 0% Factor in BRD refinement schedule once ready 1 day 0 days NA Fri 24/04/26 Fri 24/04/26 Procentia
+2026-04-28 - 451 0% MDA Non-Payroll- Change of Personal Details incl NINo, DOB needs to be removed 60937 5 days 0 days NA Tue 21/04/26 Tue 28/04/26 450 Procentia
+2026-04-28 - 586 20% Scoping 21 days 6 days Mon 23/03/26 Tue 31/03/26 Tue 28/04/26
+2026-04-28 - 589 0% Scoping and refinement workshop 1 day 26 days Mon 23/03/26 Tue 28/04/26 Tue 28/04/26 Shell,Procentia Web work to start in March 26
+2026-04-29 - 316 0% Specification/requirements/sample file received 0 days 0 days NA Wed 29/04/26 Wed 29/04/26 244FS+5 days Shell Linked to Interfund workstream
+2026-04-30 - 137 25% Remediation/Data Mapping Amendments 20 days 0 days Fri 03/04/26 Fri 03/04/26 Thu 30/04/26 134 Procentia
+2026-04-30 - 139 50% DC2 refresh of UAT with updated unmapped fields 0.5 days 0 days NA Thu 30/04/26 Thu 30/04/26 Saveen Gamage
+2026-04-30 - 278 0% Build 10 days 0 days NA Fri 17/04/26 Thu 30/04/26 277 Steve Dart Placeholder only - TBC 
+2026-05-01 - 590 0% Milestone: Member Portal Design Approved 1 day 0 days Fri 01/05/26 Fri 01/05/26 Fri 01/05/26 Shell
+2026-05-04 - 77 0% Intro to IntelliPay 1 day 130 days Mon 03/11/25 Mon 04/05/26 Mon 04/05/26 Shall we arrange this ASAP?
+2026-05-04 - 298 0% Build 10 days 0 days NA Tue 21/04/26 Mon 04/05/26 297 Procentia
+2026-05-05 - 452 0% Placeholder Complaints 5 days 0 days NA Tue 28/04/26 Tue 05/05/26 451
+2026-05-06 - 317 0% Estimate 5 days 0 days NA Thu 30/04/26 Wed 06/05/26 316 Procentia Placeholder only - TBC 
+2026-05-07 - 145 0% Dedicated Consultancy Support 5 days 0 days Fri 01/05/26 Fri 01/05/26 Thu 07/05/26 137 Procentia
+2026-05-07 - 351 0% Upload BACS Responses 5 days -31 days Mon 15/06/26 Fri 01/05/26 Thu 07/05/26 David McNaught
+2026-05-08 - 141 19% Payroll 17 days -11 days Fri 01/05/26 Thu 16/04/26 Fri 08/05/26
+2026-05-08 - 144 0% Parallel Run 1 3 days 3 days Fri 01/05/26 Wed 06/05/26 Fri 08/05/26 137,139 Shell Dependency on Interim data refresh of 
+2026-05-08 - 147 0% Milestone: Parallel Run 1 Complete 0 days 6 days Fri 01/05/26 Fri 08/05/26 Fri 08/05/26 144 Shell
+2026-05-11 - 255 0% Specification/requirements/sample file received 0 days 0 days NA Mon 11/05/26 Mon 11/05/26 Shell
+2026-05-11 - 260 0% Specification/requirements/sample file received 0 days 0 days NA Mon 11/05/26 Mon 11/05/26 Shell
+2026-05-11 - 265 0% PGP File Level Encryption 6 days 0 days NA Mon 04/05/26 Mon 11/05/26 Procentia IT Sprint commencing 27.04.26
+2026-05-11 - 266 0% Specification/requirements/sample file received 0 days 0 days NA Mon 11/05/26 Mon 11/05/26 Shell
+2026-05-11 - 271 0% Specification/requirements/sample file received 0 days 0 days NA Mon 11/05/26 Mon 11/05/26 Shell
+2026-05-11 - 281 0% Specification/requirements/sample file received 0 days 0 days NA Mon 11/05/26 Mon 11/05/26
+2026-05-11 - 286 0% Specification/requirements/sample file received 0 days 0 days NA Mon 11/05/26 Mon 11/05/26 Shell
+2026-05-11 - 472 96% WP2 Baseline Build (Workflows) 136 days 0 days Mon 03/11/25 Mon 03/11/25 Mon 11/05/26
+2026-05-11 - 474 0% Attestation Interface load/process 5 days 131 days Mon 03/11/25 Tue 05/05/26 Mon 11/05/26 298 Procentia,Shell Linked to interface!
+2026-05-12 - 446 0% Placeholder for Build 16.75 days 39 days Tue 24/02/26 Mon 20/04/26 Tue 12/05/26 444FS-10 days Procentia
+2026-05-12 - 453 0% Placeholder Disputes 5 days 0 days NA Tue 05/05/26 Tue 12/05/26 452
+2026-05-13 - 457 0% UAT Entry/Exit Criteria Agreed 0.5 days 26.25 d... Tue 07/04/26 Wed 13/05/26 Wed 13/05/26 455FS-10 days Procentia
+2026-05-14 - 275 0% HR inbound to IntelliPen (via SFTP) 61126 41 days 0 days NA Thu 19/03/26 Thu 14/05/26
+2026-05-14 - 279 0% UAT 10 days 0 days NA Fri 01/05/26 Thu 14/05/26 278 Shell Placeholder only - TBC 
+2026-05-14 - 352 0% SPO Deductions 5 days -31 days Mon 22/06/26 Fri 08/05/26 Thu 14/05/26 351 David McNaught
+2026-05-15 - 256 0% Estimate 5 days 0 days NA Mon 11/05/26 Fri 15/05/26 255 Procentia
+2026-05-15 - 261 0% Estimate 5 days 0 days NA Mon 11/05/26 Fri 15/05/26 260 Procentia Placeholder only - TBC 
+2026-05-15 - 272 0% Estimate 5 days 0 days NA Mon 11/05/26 Fri 15/05/26 271 Procentia
+2026-05-15 - 282 0% Estimate 5 days 0 days NA Mon 11/05/26 Fri 15/05/26 281 Procentia Placeholder only - TBC 
+2026-05-15 - 287 0% Estimate 5 days 0 days NA Mon 11/05/26 Fri 15/05/26 286 Procentia
