@@ -12,12 +12,15 @@ import pandas as pd # type: ignore
 plt = None
 try:
     import matplotlib
-    for backend in ("TkAgg", "Qt5Agg", "QtAgg", "WXAgg", "Agg"):
-        try:
-            matplotlib.use(backend, force=True)
-            break
-        except Exception:
-            continue
+    if os.name != "nt" and not os.environ.get("DISPLAY"):
+        matplotlib.use("Agg", force=True)
+    else:
+        for backend in ("TkAgg", "Qt5Agg", "QtAgg", "WXAgg", "Agg"):
+            try:
+                matplotlib.use(backend, force=True)
+                break
+            except Exception:
+                continue
     plt = importlib.import_module("matplotlib.pyplot")
 except Exception:
     plt = None
