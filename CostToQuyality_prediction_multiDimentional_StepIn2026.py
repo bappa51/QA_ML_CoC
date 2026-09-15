@@ -1,3 +1,8 @@
+"""Analyze Cost of Quality data and generate prediction visualizations."""
+
+# The filename is retained for backwards compatibility with existing users.
+# pylint: disable=invalid-name
+
 # ============================================================
 # START: The process begins
 # ============================================================
@@ -19,18 +24,18 @@ try:
             try:
                 matplotlib.use(backend, force=True)
                 break
-            except Exception:
+            except (ImportError, RuntimeError, ValueError):
                 continue
     plt = importlib.import_module("matplotlib.pyplot")
-except Exception:
+except (ImportError, RuntimeError, ValueError):
     plt = None
 
 # Optional random forest support (only if scikit-learn is available)
-RandomForestRegressor = None
+random_forest_regressor = None
 try:
-    from sklearn.ensemble import RandomForestRegressor
-except Exception:
-    RandomForestRegressor = None
+    from sklearn.ensemble import RandomForestRegressor as random_forest_regressor
+except ImportError:
+    random_forest_regressor = None
 
 
 # ============================================================
@@ -52,6 +57,7 @@ TOP_N_RADAR = 12
 # and fall back to any supported CSV/XLSX file if needed.
 # ============================================================
 def find_input_file():
+    """Find the preferred CSV or Excel input file in the working directory."""
     script_dir = os.getcwd()
     print(f"[INFO] Working Directory: {script_dir}")
 
@@ -89,6 +95,7 @@ def find_input_file():
 # The file is opened and data is read into the system.
 # ============================================================
 def load_data(path):
+    """Load a supported CSV or Excel file into a pandas data frame."""
     print(f"[INFO] Loading file: {path}")
     ext = os.path.splitext(path)[1].lower()
 
@@ -103,6 +110,7 @@ def load_data(path):
 
 # Helper to correctly sort release columns
 def release_num(col):
+    """Return the numeric part of a release column name for sorting."""
     m = re.search(r"(?i)release\s*(\d+)", str(col))
     return int(m.group(1)) if m else 10**9
 
@@ -116,22 +124,25 @@ def save_plot(filename):
             print(f"[INFO] Plot saved: {filename}")
             if os.name == "nt":
                 try:
-                    os.startfile(filename)
+                    start_file = getattr(os, "startfile", None)
+                    if callable(start_file):
+                        start_file(filename)  # pylint: disable=not-callable
                     print(f"[INFO] Opened plot file: {filename}")
-                except Exception:
+                except OSError:
                     pass
-        except Exception as e:
+        except (OSError, RuntimeError, ValueError) as e:
             print(f"[WARNING] Could not save plot: {e}")
         try:
             plt.show(block=True)
-        except Exception as e:
+        except (RuntimeError, ValueError) as e:
             print(f"[WARNING] Could not display plot: {e}")
 
 
 # ============================================================
 # MAIN PROCESS
 # ============================================================
-def main():
+def main():  # pylint: disable=too-many-locals,too-many-statements
+    """Run the complete CoQ prediction and visualization workflow."""
 
     # -----------------------------
     # START EXECUTION FLOW
@@ -182,19 +193,19 @@ def main():
     train_table = train_table[valid_releases]
 
     y = train_table.loc[target].values
-    X = train_table.loc[feature_axes].values.T
+    features = train_table.loc[feature_axes].values.T
 
     # ============================================================
     # BUILD PREDICTION MODEL:
     # Learn relationship between inputs and target using regression
     # ============================================================
-    X_design = np.column_stack([np.ones(len(y)), X])
-    beta = np.linalg.lstsq(X_design, y, rcond=None)[0]
+    design_matrix = np.column_stack([np.ones(len(y)), features])
+    beta = np.linalg.lstsq(design_matrix, y, rcond=None)[0]
 
     intercept = beta[0]
     coefs = beta[1:]
 
-    y_pred = X_design @ beta
+    y_pred = design_matrix @ beta
 
     # ============================================================
     # CHECK MODEL ACCURACY:
@@ -223,7 +234,7 @@ def main():
     print("\n[CONTRIBUTION BREAKDOWN WITH % AND CORRELATION]")
 
     # Calculate correlations between features and target
-    correlations = np.corrcoef(X.T, y)[:-1, -1]
+    correlations = np.corrcoef(features.T, y)[:-1, -1]
 
     print(f"{'Axis':<10} {'Value':>10} {'Coef':>10} {'Corr':>10} {'Contr':>12} {'%':>10}")
     print("-" * 74)
@@ -240,10 +251,16 @@ def main():
 
     for axis, val, coef, corr, contrib in records:
         pct = (contrib / total) * 100 if total != 0 else 0
-        print(f"{axis:<10} {val:>10.2f} {coef:>10.4f} {corr:>10.4f} {contrib:>12.4f} {pct:>9.2f}%")
+        print(
+            f"{axis:<10} {val:>10.2f} {coef:>10.4f} "
+            f"{corr:>10.4f} {contrib:>12.4f} {pct:>9.2f}%"
+        )
 
     print("-" * 74)
-    print(f"{'Intercept':<10} {'':>10} {intercept:>10.4f} {'':>10} {intercept:>12.4f} {(intercept/total)*100:>9.2f}%")
+    print(
+        f"{'Intercept':<10} {'':>10} {intercept:>10.4f} {'':>10} "
+        f"{intercept:>12.4f} {(intercept / total) * 100:>9.2f}%"
+    )
     print("-" * 74)
     print(f"{'TOTAL':<10} {'':>10} {'':>10} {'':>10} {total:>12.4f} {'100.00%':>10}")
 
@@ -314,7 +331,11 @@ def main():
         radar_vals = contribs[idx]
 
         vmin, vmax = radar_vals.min(), radar_vals.max()
-        radar_norm = (radar_vals - vmin) / (vmax - vmin) if vmax != vmin else np.ones_like(radar_vals)
+        radar_norm = (
+            (radar_vals - vmin) / (vmax - vmin)
+            if vmax != vmin
+            else np.ones_like(radar_vals)
+        )
 
         labels = radar_axes + [radar_axes[0]]
         values = np.append(radar_norm, radar_norm[0])
@@ -387,17 +408,17 @@ def main():
     # RANDOM FOREST ANALYSIS:
     # Run after the main linear model and contribution analysis.
     # ============================================================
-    if RandomForestRegressor is not None:
+    if random_forest_regressor is not None:
         print("\n[RF ANALYSIS] Training Random Forest Regressor...")
-        rf_model = RandomForestRegressor(
+        rf_model = random_forest_regressor(
             n_estimators=500,
             random_state=42,
             max_features="sqrt",
             min_samples_leaf=1
         )
-        rf_model.fit(X, y)
+        rf_model.fit(features, y)
 
-        rf_pred = rf_model.predict(X)
+        rf_pred = rf_model.predict(features)
         rf_r2 = 1 - np.sum((y - rf_pred) ** 2) / np.sum((y - np.mean(y)) ** 2)
         print(f"[RF MODEL] R² = {rf_r2:.4f}")
 
