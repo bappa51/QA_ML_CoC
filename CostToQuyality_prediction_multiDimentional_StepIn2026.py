@@ -16,7 +16,7 @@ import pandas as pd # type: ignore
 # Optional plotting support (only if matplotlib is available)
 plt = None
 try:
-    import matplotlib
+    import matplotlib # pyright: ignore[reportMissingModuleSource]
     if os.name != "nt" and not os.environ.get("DISPLAY"):
         matplotlib.use("Agg", force=True)
     else:
@@ -33,7 +33,7 @@ except (ImportError, RuntimeError, ValueError):
 # Optional random forest support (only if scikit-learn is available)
 random_forest_regressor = None
 try:
-    from sklearn.ensemble import RandomForestRegressor as random_forest_regressor
+    from sklearn.ensemble import RandomForestRegressor as random_forest_regressor # pyright: ignore[reportMissingModuleSource]
 except ImportError:
     random_forest_regressor = None
 
