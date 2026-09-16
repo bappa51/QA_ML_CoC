@@ -13,6 +13,7 @@ if you are using Jupyter notebook
 !pip install numpy pandas matplotlib
 
 =================================================
+
 CoQ Predictive Analytics Toolkit
 This project provides a practical and transparent framework for analyzing Cost of Quality (CoQ) using release-level operational data. It combines multivariate linear regression with a Random Forest baseline to estimate CoQ, identify key drivers, and visualize relationships across releases.
 
